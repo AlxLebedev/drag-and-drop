@@ -50,6 +50,7 @@
   border: 1px solid;
   border-radius: 10px;
   max-width: 840px;
+  min-height: 202px;
   background-color: rgb(212, 239, 248);
 }
 
